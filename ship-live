@@ -25,6 +25,12 @@ it runs.
 
  * wpasupplicant
 
+= kernel =
+
+The kernel is installed dynamically, so include it in the pool.
+
+ * linux-generic
+
 = Curtin =
 
 These packages may be installed dynamically by curtin based on
