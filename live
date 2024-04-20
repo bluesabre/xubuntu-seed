@@ -42,6 +42,7 @@ Task-Seeds: live-common
 
  * snap:ubuntu-desktop-bootstrap/classic
  * casper
+ * cryptsetup                   # encrypted installs
 
 == Secureboot setup ==
 
